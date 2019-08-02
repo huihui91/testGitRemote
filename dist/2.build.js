@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{12:function(t,e,i){"use strict";i.r(e);var n=function(){var t=this.$createElement;return(this._self._c||t)("p",[this._v("我是list页面")])};n._withStripped=!0;var s=i(0),l=Object(s.a)({},n,[],!1,null,null,null);l.options.__file="src/pages/list/index.vue";e.default=l.exports}}]);

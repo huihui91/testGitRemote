@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{12:function(e,n,t){"use strict";t.r(n);var i=function(){var e=this.$createElement;return(this._self._c||e)("h1",[this._v("我是标题")])};i._withStripped=!0;var s=t(0),o=Object(s.a)({},i,[],!1,null,null,null);o.options.__file="src/components/head/index.vue";n.default=o.exports}}]);

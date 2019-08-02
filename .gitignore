@@ -1,0 +1,6 @@
+**/*.zip
+**/bin/
+*.idea
+*.git
+*.template_git
+node_modules

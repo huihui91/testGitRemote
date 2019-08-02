@@ -1,0 +1,47 @@
+{
+  "name": "vuewebpackdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --config ./config/webpack.dev.js",
+    "server": "webpack-dev-server --hot --open",
+    "build": "webpack --config ./config/webpack.prod.js --hide-modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huihui91/vueWebpackDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huihui91/vueWebpackDemo/issues"
+  },
+  "homepage": "https://github.com/huihui91/vueWebpackDemo#readme",
+  "dependencies": {
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.7"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^3.1.0",
+    "file-loader": "^4.1.0",
+    "glob": "^7.1.4",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0",
+    "url-loader": "^2.1.0",
+    "vue-loader": "^15.7.1",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.36.1",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2",
+    "webpack-merge": "^4.2.1"
+  }
+}
